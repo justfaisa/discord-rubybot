@@ -1,2 +1,1 @@
-# discordruby-bot
-Simple bot made with discordrb
+a simple bot made with `discordrb` library
