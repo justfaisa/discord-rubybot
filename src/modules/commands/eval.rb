@@ -6,7 +6,7 @@ module Bot::DiscordCommands
       begin
         eval code.join(' ')
       rescue => e # Return error
-        "An error occurred 😞 ```#{e}```"
+        "Error 😥 ```#{e}```"
       end
     end
   end
