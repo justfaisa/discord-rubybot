@@ -6,7 +6,7 @@ a simple bot made with `discordrb` library
 Run with `rake`
 
 ## Adding a Commands and Events
-Create new file `*.rb` in `src/modules/(events/commands)`
+Create new file `command/events_name.rb` in `src/modules/(events/commands)`
 
 Example for commands :
 ```rb
