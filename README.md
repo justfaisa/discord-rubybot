@@ -13,7 +13,7 @@ Example for commands :
 module Bot::DiscordCommands
   module MyCommand # Replace with your command name
     extend Discordrb::Commands::CommandContainer
-    command :my_command do |event|
+    command :my_command do |event| # Replace my_command with your commands name
       # Your code here!
     end
   end
@@ -24,7 +24,7 @@ For events :
 module Bot::DiscordEvents
   module MyEvent # Replace with your events name
     extend Discordrb::EventContainer
-    member_join do |event|
+    member_join do |event| # Replace member_join with your events name
       # Your code here!
     end
   end
