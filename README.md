@@ -1,7 +1,8 @@
 a simple bot made with <a href="https://github.com/shardlab/discordrb">`discordrb`</a> library
 ## Configuration
-1. Run `gem install bundler` and `gem install rake` in your terminal
-2. Fill the `config-sample.yml` and rename to `config.yml`
+1. Fork this repos
+2. Run `gem install bundler` and `gem install rake` in your terminal
+3. Fill the `config-sample.yml` and rename to `config.yml`
 
 Run with `rake`
 
