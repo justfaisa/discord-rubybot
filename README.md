@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Devicon-ruby-plain-wordmark.svg/1024px-Devicon-ruby-plain-wordmark.svg.png"/>
+
 a simple bot made with <a href="https://github.com/shardlab/discordrb">`discordrb`</a> library
 ## Configuration
 1. Fork this repos
