@@ -11,12 +11,12 @@ a simple bot made with <a href="https://github.com/shardlab/discordrb">`discordr
 `4.` Run the bot using `rake`
 
 ## Adding a Commands and Events
-Create new file `command/events_name.rb` in `src/modules/(events/commands)`
+Create new file `(commands/events_name).rb` in `src/modules/(events/commands)`
 
 ## Example for commands :
 ```rb
 module Bot::DiscordCommands
-  module MyCommand # Replace with your command name
+  module MyCommand # Replace with your commands name
     extend Discordrb::Commands::CommandContainer
     command :my_command do |event| # Replace my_command with your commands name
       # Your code here!
