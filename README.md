@@ -3,7 +3,7 @@
 <p align="center">A simple bot made with <a href="https://github.com/shardlab/discordrb">`discordrb`</a> library</p>
 
 ## Configuration
-`1.` Fork this repos
+`1.` Fork this repository
 
 `2.` Run `gem install bundler` and `gem install rake` in your terminal
 
