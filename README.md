@@ -14,7 +14,7 @@
 ## Adding a Commands and Events
 Create new file `(commands/events_name).rb` in `src/modules/(events/commands)`
 
-## Example for commands :
+### Example for commands :
 ```rb
 module Bot::DiscordCommands
   module MyCommand # Replace with your commands name
@@ -25,7 +25,7 @@ module Bot::DiscordCommands
   end
 end
 ```
-## For events :
+### For events :
 ```rb
 module Bot::DiscordEvents
   module MyEvent # Replace with your events name
