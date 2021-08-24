@@ -36,4 +36,4 @@ module Bot::DiscordEvents
   end
 end
 ```
-`NOTE:` **Before adding a commands or events you better learn <a href="https://www.ruby-lang.org/">Ruby</a> ​​first!**
+`NOTE` **Before adding a commands or events you better learn <a href="https://www.ruby-lang.org/">Ruby</a> ​​first!**
